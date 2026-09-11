@@ -9,6 +9,7 @@ logging.basicConfig(
 
 
 
+
 def test_item_invalid():
     logging.info('TEST CASE 1:RF1(NEGATIVE)')
 
